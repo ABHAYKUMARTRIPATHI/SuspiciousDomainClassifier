@@ -39,3 +39,6 @@ This project is a machine learning-based solution to detect potentially maliciou
 
 ## 👤 Author  
 Abhay Kumar Tripathi
+[GitHub](https://github.com/ABHAYKUMARTRIPATHI)  
+[LinkedIn](https://www.linkedin.com/in/abhay-kumar-tripathi-54899b31a)  
+[Instagram](https://www.instagram.com/abhaytripathi_46)
